@@ -1,0 +1,10 @@
+.cabecalho{
+    background-color: aqua;
+    border: 10px;
+    border-color: yellow;
+    border-style: dashed;
+    margin: 10px;
+    color:  white;
+    font-weight: 400;
+    
+}
